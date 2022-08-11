@@ -12,4 +12,5 @@ public class InMemoryOperationStorage {
 	public void save(Operation operation){
 		operations.add(operation);
 	}
+
 }
