@@ -1,8 +1,8 @@
 <%--
   Created by IntelliJ IDEA.
   User: HomeUser
-  Date: 15.08.2022
-  Time: 20:31
+  Date: 16.08.2022
+  Time: 14:55
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
@@ -13,7 +13,6 @@
           integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
 </head>
 <body>
-
 <div class="container mt-2">
     <div class="row">
         <div class="row justify-content-center">
